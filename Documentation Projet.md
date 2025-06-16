@@ -1,4 +1,4 @@
-#### **Supervision et cybersécurité             d’une attraction simulée**
+### **Supervision et cybersécurité             d’une attraction simulée**
 
 ### **🌟 Objectif principal**
 
